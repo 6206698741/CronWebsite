@@ -1,4 +1,5 @@
-﻿<%@ Page Title="Edit Job" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
+greate code very well knowledge about basic
+<%@ Page Title="Edit Job" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
     CodeBehind="Edit.aspx.cs" Inherits="CronWebsite.Edit" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
